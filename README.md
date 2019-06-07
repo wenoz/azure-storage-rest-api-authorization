@@ -1,5 +1,5 @@
 # azure-storage-rest-api-authorization
-Code snippet for generating the required header for Azure Table Storage REST API. **You do not have to use this! **
+Code snippet for generating the required header for Azure Table Storage REST API. **You do not have to use this!**
 
 On the documentation, it is said that the shared key or shared key lite is required for using REST API.
 But you can simply just append the sas token at the end of your URI.
